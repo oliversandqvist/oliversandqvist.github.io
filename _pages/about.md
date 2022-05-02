@@ -17,7 +17,7 @@ selected_papers: false # includes a list of papers marked as "selected={true}"
 social: true  # includes social icons at the bottom of the page
 ---
 
-I am an Industrial PhD student in actuarial mathematics at the [University of Copenhagen](https://www.math.ku.dk/english/) and at [PFA Pension](https://pfa.dk/privat/). My supervisors are [Mogens Steffensen](https://sites.google.com/site/steffensenmogens/), [Christian Furrer](https://furrer.dk/christian/), [Kristian Buchardt](http://kristian.buchardt.net/), and Lars F. B. Henriksen.
+I am an Industrial PhD student in actuarial mathematics working with the [University of Copenhagen](https://www.math.ku.dk/english/) and [PFA Pension](https://pfa.dk/privat/). My supervisors are [Mogens Steffensen](https://sites.google.com/site/steffensenmogens/), [Christian Furrer](https://furrer.dk/christian/), [Kristian Buchardt](http://kristian.buchardt.net/), and Lars F. B. Henriksen.
 
 My research interests lie within actuarial mathematics, probability theory, statistics, and financial mathematics and their applications in life insurance. 
 
