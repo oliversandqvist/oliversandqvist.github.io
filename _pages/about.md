@@ -2,8 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: <p>Email: oliver.s@ku.math.dk</p> 
-          <p>Phone: +45 53312928</p> #<a href='#'>Affiliations</a>. Address. Contacts. Moto. Etc.
+subtitle: Email: oliver.s@ku.math.dk.  Phone: +45 53 31 29 28. #<a href='#'>Affiliations</a>. Address. Contacts. Moto. Etc.
 
 profile:
   align: right
