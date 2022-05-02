@@ -31,14 +31,14 @@ $grey-900:            #212529;
 $white-color: #ffffff !default;
 $black-color: #000000 !default;
 
-// Own colors
+// Additional colors
 $grey-color-ucph: #666666 !default;
 $grey-color-ucph-light: rgba($grey-color-ucph, 0.025) !default;
 $red-color-ucph: #901A1E !default;
 $red-color-pfa: #900 !default;
-
+$red-color-custom: #c50f0f !default;
 
 // Theme colors
 
-$code-bg-color-light:     $grey-color-ucph-light; // rgba($purple-color, 0.05);
+$code-bg-color-light:     rgba($purple-color, 0.05);
 $code-bg-color-dark:      #2c3237 !default;
