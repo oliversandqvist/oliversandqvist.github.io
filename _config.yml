@@ -212,8 +212,8 @@ jekyll-archives:
 
 scholar:
 
-  last_name: Einstein
-  first_name: [Albert, A.]
+  last_name: Sandqvist
+  first_name: [Oliver, L.]
 
   style: apa
   locale: en
