@@ -8,10 +8,10 @@ profile:
   align: right
   image: prof_pic.jpg
   address: >
-    <p>Department of Mathematical Sciences</p>
-    <p>Universitetsparken 5</p>
-    <p>2100 Copenhagen</p>
-    <p>Denmark</p>
+    <p style="font-size:60%;">Department of Mathematical Sciences</p>
+    <p style="font-size:60%;">Universitetsparken 5</p>
+    <p style="font-size:60%;">2100 Copenhagen</p>
+    <p style="font-size:60%;">Denmark</p>
 
 news: false  # includes a list of news items
 selected_papers: false # includes a list of papers marked as "selected={true}"
