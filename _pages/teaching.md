@@ -1,9 +1,9 @@
 ---
 layout: page
-permalink: /teaching/
-title: teaching
+permalink: /dissemination/
+title: dissemination
 description: 
-nav: false
+nav: true
 ---
 
 exampletext.
