@@ -7,6 +7,7 @@ permalink: /
 profile:
   align: right
   image: prof_pic.jpg
+  image_circular: false # crops the image to make it circular
   address: >
     <p style="font-size:75%;">Department of Mathematical Sciences</p>
     <p style="font-size:75%;">Universitetsparken 5</p>
