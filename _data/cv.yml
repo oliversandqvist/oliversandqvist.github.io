@@ -26,16 +26,22 @@
       year: 2019
       description:
         - GPA 11.6/12.
+    - title: General Upper Secondary School Certificate 
+      institution: Marie Kruses Gymnasium, Farum, Denmark
+      year: 2016
+      description:
+        - GPA 11.7/12.
+        - Mathematics (A), Physics (A), English (A)
 
 - title: Experience
   type: time_table
   contents:
     - title: Actuary
       institution: PFA Pension, Innovation og Modeller
-      year: August 2021 - Febuary 2022
+      year: 08/2021 - 02/2022
     - title: Student assistant actuary
       institution: PFA Pension, Innovation og Modeller
-      year: August 2017 - August 2021
+      year: 08/2017 - 08/2021
 
 
 - title: Academic Interests
