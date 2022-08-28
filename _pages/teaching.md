@@ -7,4 +7,10 @@ nav: true
 nav_order: 5
 ---
 
-exampletext.
+## talks
+
+## teaching
+
+## supervision
+
+## longer visits
