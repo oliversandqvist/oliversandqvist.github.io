@@ -19,7 +19,7 @@ selected_papers: false # includes a list of papers marked as "selected={true}"
 social: true  # includes social icons at the bottom of the page
 ---
 
-I am an Industrial PhD student in actuarial mathematics working with the [University of Copenhagen](https://www.math.ku.dk/english/) and [PFA Pension](https://pfa.dk/privat/). My supervisors are [Mogens Steffensen](https://sites.google.com/site/steffensenmogens/), [Christian Furrer](https://furrer.dk/christian/), Lars F. B. Henriksen, and Niklas Lindholm (previously also [Kristian Buchardt](http://kristian.buchardt.net/)). 
+I am an Industrial PhD student in actuarial mathematics working with the [University of Copenhagen](https://www.math.ku.dk/english/) and [PFA Pension](https://pfa.dk/privat/). My supervisors are [Mogens Steffensen](https://sites.google.com/site/steffensenmogens/), [Christian Furrer](https://furrer.dk/christian/), Lars F. B. Henriksen, and Niklas Lindholm (previously [Kristian Buchardt](http://kristian.buchardt.net/)). 
 
 The project is concerned with developing new mathematical life insurance models based on transaction time information as well as estimating the causal effect of preventive care initiatives. Special attention is given to disability insurance schemes.
 
