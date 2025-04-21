@@ -19,6 +19,6 @@ selected_papers: false # includes a list of papers marked as "selected={true}"
 social: true  # includes social icons at the bottom of the page
 ---
 
-I am an Industrial PhD in actuarial mathematics working at Modeller \& Udvikling, PFA Pension. 
+I am an Industrial PhD in actuarial mathematics working at Modeller & Udvikling, PFA Pension. 
 
 My research interests include actuarial mathematics, probability theory, statistics, and financial mathematics, motivated by applications in life insurance. 
