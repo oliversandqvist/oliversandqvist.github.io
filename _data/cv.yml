@@ -11,7 +11,7 @@
 - title: Education
   type: time_table
   contents:
-    - title: PhD (ongoing)
+    - title: PhD
       institution: University of Copenhagen, Copenhagen, Denmark
       year: 2025
       description:
@@ -31,6 +31,9 @@
 - title: Experience
   type: time_table
   contents:
+    - title: Actuary
+      institution: PFA Pension, Modeller og Udvikling
+      year: 02/2025 - ongoing
     - title: Industrial PhD Student
       institution: PFA Pension, Innovation og Modeller
       year: 02/2022 - 02/2025
