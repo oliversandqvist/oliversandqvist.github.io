@@ -22,7 +22,7 @@ jobs:
         ruby-version: '3.0.2'
         bundler-cache: true
     - name: Install specific version of uri gem
-      run: gem install uri -v 1.0.3    
+      run: gem install uri -v 1.0.4    
     - name: Install deps
       run: |
         npm install -g mermaid.cli
